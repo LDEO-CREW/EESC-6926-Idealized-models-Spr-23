@@ -1,0 +1,11 @@
+name: idealized_modeling
+
+dependencies:
+  - conda-forge::jupyter
+  - conda-forge::jupytext
+  - conda-forge::python=3.9
+  - conda-forge::numpy
+  - conda-forge::scipy
+  - conda-forge::pandas
+  - conda-forge::matplotlib
+  - conda-forge::cbsyst 
