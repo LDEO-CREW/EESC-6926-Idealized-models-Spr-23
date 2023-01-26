@@ -1,11 +1,19 @@
 name: idealized_modeling
 
+channels: 
+  - conda-forge
 dependencies:
-  - conda-forge::jupyter
-  - conda-forge::jupytext
-  - conda-forge::python=3.9
-  - conda-forge::numpy
-  - conda-forge::scipy
-  - conda-forge::pandas
-  - conda-forge::matplotlib
-  - conda-forge::cbsyst 
+  - python<3.11
+  - jupyter
+  - jupytext
+  - fortran-compiler
+  - c-compiler
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - cbsyst
+  - pip
+  - pip:
+    - git+https://github.com/atmtools/climt@rrtmg-only
+    - konrad
