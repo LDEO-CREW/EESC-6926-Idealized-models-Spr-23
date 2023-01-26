@@ -1,6 +1,6 @@
 # Idealized Models of Climate Processes
-## Columbia University Department of Earth and Environmental Sciences GR6926, Spring 2023
-## Instructors [Galen McKinley](https://mckinley.ldeo.columbia.edu) and [Robert Pincus](https://crew.ldeo.columbia.edu)
+### Columbia University Department of Earth and Environmental Sciences GR6926, Spring 2023
+### Instructors [Galen McKinley](https://mckinley.ldeo.columbia.edu) and [Robert Pincus](https://crew.ldeo.columbia.edu)
 
 Links: 
 - [Course website](https://courseworks2.columbia.edu/courses/167024) (Courseworks)
