@@ -12,6 +12,7 @@ dependencies:
   - scipy
   - pandas
   - matplotlib
+  - dask
   - cbsyst
   - pip
   - pip:
