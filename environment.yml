@@ -12,7 +12,8 @@ dependencies:
   - scipy
   - pandas
   - matplotlib
-  - dask
+  - colorcet
+  - seaborn
   - cbsyst
   - pip
   - pip:
