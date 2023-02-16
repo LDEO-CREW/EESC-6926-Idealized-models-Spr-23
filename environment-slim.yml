@@ -1,0 +1,15 @@
+name: idealized_modeling_slim
+
+channels: 
+  - conda-forge
+dependencies:
+  - python<3.11
+  - jupyter
+  - jupytext
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - colorcet
+  - seaborn
+  - cbsyst
