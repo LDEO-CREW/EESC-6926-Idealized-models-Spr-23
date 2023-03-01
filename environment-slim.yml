@@ -1,4 +1,4 @@
-name: idealized_modeling
+name: idealized_modeling_slim
 
 channels: 
   - conda-forge
@@ -6,8 +6,6 @@ dependencies:
   - python<3.11
   - jupyter
   - jupytext
-  - fortran-compiler
-  - c-compiler
   - numpy
   - scipy
   - pandas
@@ -15,7 +13,3 @@ dependencies:
   - colorcet
   - seaborn
   - cbsyst
-  - pip
-  - pip:
-    - git+https://github.com/atmtools/climt@rrtmg-only
-    - konrad
